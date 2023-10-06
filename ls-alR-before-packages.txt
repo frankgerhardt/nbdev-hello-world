@@ -1,0 +1,364 @@
+.:
+total 68
+drwxr-xr-x 7 siena siena  4096 Oct  6 01:29 .
+drwxr-xr-x 6 siena siena  4096 Oct  6 01:19 ..
+drwxr-xr-x 8 siena siena  4096 Oct  6 01:27 .git
+-rw-r--r-- 1 siena siena    26 Oct  6 01:27 .gitattributes
+-rw-r--r-- 1 siena siena   296 Oct  6 01:27 .gitconfig
+drwxrwxr-x 3 siena siena  4096 Apr 27 12:12 .github
+-rw-rw-r-- 1 siena siena  1608 Apr 27 12:12 .gitignore
+-rw-rw-r-- 1 siena siena 11337 Apr 27 12:12 LICENSE
+-rw-r--r-- 1 siena siena     0 Oct  6 01:29 ls-alR-before-packages.txt
+-rw-rw-r-- 1 siena siena   111 Apr 27 12:12 MANIFEST.in
+drwxr-xr-x 2 siena siena  4096 Oct  6 01:19 nbdev_hello_world
+drwxr-xr-x 2 siena siena  4096 Oct  6 01:19 nbs
+drwxr-xr-x 4 siena siena  4096 Oct  6 01:19 _proc
+-rw-r--r-- 1 siena siena   304 Oct  6 01:19 README.md
+-rw-r--r-- 1 siena siena   951 Oct  6 01:19 settings.ini
+-rw-rw-r-- 1 siena siena  2596 Apr 27 12:12 setup.py
+
+./.git:
+total 52
+drwxr-xr-x  8 siena siena 4096 Oct  6 01:27 .
+drwxr-xr-x  7 siena siena 4096 Oct  6 01:29 ..
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:19 branches
+-rw-r--r--  1 siena siena    8 Oct  6 01:22 COMMIT_EDITMSG
+-rw-r--r--  1 siena siena  303 Oct  6 01:27 config
+-rw-r--r--  1 siena siena   73 Oct  6 01:19 description
+-rw-r--r--  1 siena siena   21 Oct  6 01:19 HEAD
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:27 hooks
+-rw-r--r--  1 siena siena 1530 Oct  6 01:22 index
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:19 info
+drwxr-xr-x  3 siena siena 4096 Oct  6 01:22 logs
+drwxr-xr-x 25 siena siena 4096 Oct  6 01:22 objects
+drwxr-xr-x  5 siena siena 4096 Oct  6 01:22 refs
+
+./.git/branches:
+total 8
+drwxr-xr-x 2 siena siena 4096 Oct  6 01:19 .
+drwxr-xr-x 8 siena siena 4096 Oct  6 01:27 ..
+
+./.git/hooks:
+total 72
+drwxr-xr-x 2 siena siena 4096 Oct  6 01:27 .
+drwxr-xr-x 8 siena siena 4096 Oct  6 01:27 ..
+-rwxr-xr-x 1 siena siena  478 Oct  6 01:19 applypatch-msg.sample
+-rwxr-xr-x 1 siena siena  896 Oct  6 01:19 commit-msg.sample
+-rwxr-xr-x 1 siena siena 4726 Oct  6 01:19 fsmonitor-watchman.sample
+-rwxr--r-- 1 siena siena   23 Oct  6 01:27 post-merge
+-rwxr-xr-x 1 siena siena  189 Oct  6 01:19 post-update.sample
+-rwxr-xr-x 1 siena siena  424 Oct  6 01:19 pre-applypatch.sample
+-rwxr-xr-x 1 siena siena 1643 Oct  6 01:19 pre-commit.sample
+-rwxr-xr-x 1 siena siena  416 Oct  6 01:19 pre-merge-commit.sample
+-rwxr-xr-x 1 siena siena 1492 Oct  6 01:19 prepare-commit-msg.sample
+-rwxr-xr-x 1 siena siena 1374 Oct  6 01:19 pre-push.sample
+-rwxr-xr-x 1 siena siena 4898 Oct  6 01:19 pre-rebase.sample
+-rwxr-xr-x 1 siena siena  544 Oct  6 01:19 pre-receive.sample
+-rwxr-xr-x 1 siena siena 2783 Oct  6 01:19 push-to-checkout.sample
+-rwxr-xr-x 1 siena siena 3650 Oct  6 01:19 update.sample
+
+./.git/info:
+total 12
+drwxr-xr-x 2 siena siena 4096 Oct  6 01:19 .
+drwxr-xr-x 8 siena siena 4096 Oct  6 01:27 ..
+-rw-r--r-- 1 siena siena  240 Oct  6 01:19 exclude
+
+./.git/logs:
+total 16
+drwxr-xr-x 3 siena siena 4096 Oct  6 01:22 .
+drwxr-xr-x 8 siena siena 4096 Oct  6 01:27 ..
+-rw-r--r-- 1 siena siena  161 Oct  6 01:22 HEAD
+drwxr-xr-x 4 siena siena 4096 Oct  6 01:22 refs
+
+./.git/logs/refs:
+total 16
+drwxr-xr-x 4 siena siena 4096 Oct  6 01:22 .
+drwxr-xr-x 3 siena siena 4096 Oct  6 01:22 ..
+drwxr-xr-x 2 siena siena 4096 Oct  6 01:22 heads
+drwxr-xr-x 3 siena siena 4096 Oct  6 01:22 remotes
+
+./.git/logs/refs/heads:
+total 12
+drwxr-xr-x 2 siena siena 4096 Oct  6 01:22 .
+drwxr-xr-x 4 siena siena 4096 Oct  6 01:22 ..
+-rw-r--r-- 1 siena siena  161 Oct  6 01:22 main
+
+./.git/logs/refs/remotes:
+total 12
+drwxr-xr-x 3 siena siena 4096 Oct  6 01:22 .
+drwxr-xr-x 4 siena siena 4096 Oct  6 01:22 ..
+drwxr-xr-x 2 siena siena 4096 Oct  6 01:22 origin
+
+./.git/logs/refs/remotes/origin:
+total 12
+drwxr-xr-x 2 siena siena 4096 Oct  6 01:22 .
+drwxr-xr-x 3 siena siena 4096 Oct  6 01:22 ..
+-rw-r--r-- 1 siena siena  150 Oct  6 01:22 main
+
+./.git/objects:
+total 100
+drwxr-xr-x 25 siena siena 4096 Oct  6 01:22 .
+drwxr-xr-x  8 siena siena 4096 Oct  6 01:27 ..
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 01
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:22 03
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 0a
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:22 1b
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 29
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 35
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 3b
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:22 55
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 56
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:22 5b
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 5c
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 5f
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 65
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 66
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 ac
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:22 be
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 dc
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 e3
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:22 ef
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 f1
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 fa
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:19 info
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:19 pack
+
+./.git/objects/01:
+total 12
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 .
+drwxr-xr-x 25 siena siena 4096 Oct  6 01:22 ..
+-r--r--r--  1 siena siena  156 Oct  6 01:21 49c1f07325dd8e3e9a750f0620c65b0b2c1bdd
+
+./.git/objects/03:
+total 12
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:22 .
+drwxr-xr-x 25 siena siena 4096 Oct  6 01:22 ..
+-r--r--r--  1 siena siena  188 Oct  6 01:22 e05d1d5ba07829b392109d89abb9400aea459f
+
+./.git/objects/0a:
+total 12
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 .
+drwxr-xr-x 25 siena siena 4096 Oct  6 01:22 ..
+-r--r--r--  1 siena siena  195 Oct  6 01:21 6dfcb2f20aeeb3b9b36e44d534c646114dc302
+
+./.git/objects/1b:
+total 12
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:22 .
+drwxr-xr-x 25 siena siena 4096 Oct  6 01:22 ..
+-r--r--r--  1 siena siena  122 Oct  6 01:22 bcf4196e6d26cf504610e5d1966273be9cb653
+
+./.git/objects/29:
+total 12
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 .
+drwxr-xr-x 25 siena siena 4096 Oct  6 01:22 ..
+-r--r--r--  1 siena siena  182 Oct  6 01:21 bfc575f91ccd4637331abfa6c5faaee9b651c6
+
+./.git/objects/35:
+total 12
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 .
+drwxr-xr-x 25 siena siena 4096 Oct  6 01:22 ..
+-r--r--r--  1 siena siena  479 Oct  6 01:21 d98f47ffaa6e5f938f3258343ac582b26c5e35
+
+./.git/objects/3b:
+total 16
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 .
+drwxr-xr-x 25 siena siena 4096 Oct  6 01:22 ..
+-r--r--r--  1 siena siena 4440 Oct  6 01:21 106e87c0610102b42d042be9c79bc967c84503
+
+./.git/objects/55:
+total 12
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:22 .
+drwxr-xr-x 25 siena siena 4096 Oct  6 01:22 ..
+-r--r--r--  1 siena siena  117 Oct  6 01:22 16ef6079a8a2989bcdf83fb232193d6aed3403
+
+./.git/objects/56:
+total 12
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 .
+drwxr-xr-x 25 siena siena 4096 Oct  6 01:22 ..
+-r--r--r--  1 siena siena  135 Oct  6 01:21 085923ac597c0618c5b3a9d710487ed4eef03c
+
+./.git/objects/5b:
+total 12
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:22 .
+drwxr-xr-x 25 siena siena 4096 Oct  6 01:22 ..
+-r--r--r--  1 siena siena   85 Oct  6 01:22 83182eaac1c8f431230e31e7faf21cc2ea489b
+
+./.git/objects/5c:
+total 12
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 .
+drwxr-xr-x 25 siena siena 4096 Oct  6 01:22 ..
+-r--r--r--  1 siena siena  101 Oct  6 01:21 0e7ced193cb35aee60cbadc3e022a1da0fd8cc
+
+./.git/objects/5f:
+total 12
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 .
+drwxr-xr-x 25 siena siena 4096 Oct  6 01:22 ..
+-r--r--r--  1 siena siena  891 Oct  6 01:21 112e28c3a6dc6f8e7df0d6edce550d5bcc474d
+
+./.git/objects/65:
+total 12
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 .
+drwxr-xr-x 25 siena siena 4096 Oct  6 01:22 ..
+-r--r--r--  1 siena siena  134 Oct  6 01:21 52cc5da9d5ec82c8562804039b51283739ae48
+
+./.git/objects/66:
+total 16
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 .
+drwxr-xr-x 25 siena siena 4096 Oct  6 01:22 ..
+-r--r--r--  1 siena siena  323 Oct  6 01:21 71b7136caeebf6c0e1b14a5cda881d181a5333
+-r--r--r--  1 siena siena  266 Oct  6 01:21 ccc49ee8f0e73901dac02dc4e9224b7d1b2c78
+
+./.git/objects/ac:
+total 12
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 .
+drwxr-xr-x 25 siena siena 4096 Oct  6 01:22 ..
+-r--r--r--  1 siena siena  250 Oct  6 01:21 b24ac803bafae9c7ea6e28a8dc9af3c7365d00
+
+./.git/objects/be:
+total 12
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:22 .
+drwxr-xr-x 25 siena siena 4096 Oct  6 01:22 ..
+-r--r--r--  1 siena siena   51 Oct  6 01:22 aca3bd5db740b556ce05cb2c18a7d8746eef0f
+
+./.git/objects/dc:
+total 12
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 .
+drwxr-xr-x 25 siena siena 4096 Oct  6 01:22 ..
+-r--r--r--  1 siena siena  220 Oct  6 01:21 34f7d975155b90707c05609abea2b6adb42e14
+
+./.git/objects/e3:
+total 12
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 .
+drwxr-xr-x 25 siena siena 4096 Oct  6 01:22 ..
+-r--r--r--  1 siena siena 1186 Oct  6 01:21 281ae9bd7b98568e77014dba1b7b353d409205
+
+./.git/objects/ef:
+total 12
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:22 .
+drwxr-xr-x 25 siena siena 4096 Oct  6 01:22 ..
+-r--r--r--  1 siena siena  318 Oct  6 01:22 a2aca191e0d45ca9684b12b4fff08c77973e0b
+
+./.git/objects/f1:
+total 12
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 .
+drwxr-xr-x 25 siena siena 4096 Oct  6 01:22 ..
+-r--r--r--  1 siena siena   38 Oct  6 01:21 02a9cadfa89ce554b3b26d2b90bfba2e05273c
+
+./.git/objects/fa:
+total 12
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:21 .
+drwxr-xr-x 25 siena siena 4096 Oct  6 01:22 ..
+-r--r--r--  1 siena siena  565 Oct  6 01:21 216023142454e924f5c2b42c06e128d0da4bfd
+
+./.git/objects/info:
+total 8
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:19 .
+drwxr-xr-x 25 siena siena 4096 Oct  6 01:22 ..
+
+./.git/objects/pack:
+total 8
+drwxr-xr-x  2 siena siena 4096 Oct  6 01:19 .
+drwxr-xr-x 25 siena siena 4096 Oct  6 01:22 ..
+
+./.git/refs:
+total 20
+drwxr-xr-x 5 siena siena 4096 Oct  6 01:22 .
+drwxr-xr-x 8 siena siena 4096 Oct  6 01:27 ..
+drwxr-xr-x 2 siena siena 4096 Oct  6 01:22 heads
+drwxr-xr-x 3 siena siena 4096 Oct  6 01:22 remotes
+drwxr-xr-x 2 siena siena 4096 Oct  6 01:19 tags
+
+./.git/refs/heads:
+total 12
+drwxr-xr-x 2 siena siena 4096 Oct  6 01:22 .
+drwxr-xr-x 5 siena siena 4096 Oct  6 01:22 ..
+-rw-r--r-- 1 siena siena   41 Oct  6 01:22 main
+
+./.git/refs/remotes:
+total 12
+drwxr-xr-x 3 siena siena 4096 Oct  6 01:22 .
+drwxr-xr-x 5 siena siena 4096 Oct  6 01:22 ..
+drwxr-xr-x 2 siena siena 4096 Oct  6 01:22 origin
+
+./.git/refs/remotes/origin:
+total 12
+drwxr-xr-x 2 siena siena 4096 Oct  6 01:22 .
+drwxr-xr-x 3 siena siena 4096 Oct  6 01:22 ..
+-rw-r--r-- 1 siena siena   41 Oct  6 01:22 main
+
+./.git/refs/tags:
+total 8
+drwxr-xr-x 2 siena siena 4096 Oct  6 01:19 .
+drwxr-xr-x 5 siena siena 4096 Oct  6 01:22 ..
+
+./.github:
+total 12
+drwxrwxr-x 3 siena siena 4096 Apr 27 12:12 .
+drwxr-xr-x 7 siena siena 4096 Oct  6 01:29 ..
+drwxrwxr-x 2 siena siena 4096 Apr 27 12:12 workflows
+
+./.github/workflows:
+total 16
+drwxrwxr-x 2 siena siena 4096 Apr 27 12:12 .
+drwxrwxr-x 3 siena siena 4096 Apr 27 12:12 ..
+-rw-rw-r-- 1 siena siena  242 Apr 27 12:12 deploy.yaml
+-rw-rw-r-- 1 siena siena  148 Apr 27 12:12 test.yaml
+
+./nbdev_hello_world:
+total 20
+drwxr-xr-x 2 siena siena 4096 Oct  6 01:19 .
+drwxr-xr-x 7 siena siena 4096 Oct  6 01:29 ..
+-rw-r--r-- 1 siena siena  142 Oct  6 01:19 core.py
+-rw-r--r-- 1 siena siena   22 Oct  6 01:19 __init__.py
+-rw-r--r-- 1 siena siena  429 Oct  6 01:19 _modidx.py
+
+./nbs:
+total 28
+drwxr-xr-x 2 siena siena 4096 Oct  6 01:19 .
+drwxr-xr-x 7 siena siena 4096 Oct  6 01:29 ..
+-rw-rw-r-- 1 siena siena  965 Apr 27 12:12 00_core.ipynb
+-rw-rw-r-- 1 siena siena 1512 Oct  6 01:19 index.ipynb
+-rw-r--r-- 1 siena siena  246 Oct  6 01:19 nbdev.yml
+-rw-r--r-- 1 siena siena  290 Oct  6 01:19 _quarto.yml
+-rw-rw-r-- 1 siena siena  600 Apr 27 12:12 styles.css
+
+./_proc:
+total 40
+drwxr-xr-x 4 siena siena 4096 Oct  6 01:19 .
+drwxr-xr-x 7 siena siena 4096 Oct  6 01:29 ..
+-rw-r--r-- 1 siena siena 1082 Oct  6 01:19 00_core.ipynb
+drwxr-xr-x 2 siena siena 4096 Oct  6 01:19 _docs
+-rw-r--r-- 1 siena siena   10 Oct  6 01:19 .gitignore
+-rw-r--r-- 1 siena siena 1616 Oct  6 01:19 index.ipynb
+-rw-r--r-- 1 siena siena  246 Oct  6 01:19 nbdev.yml
+drwxr-xr-x 4 siena siena 4096 Oct  6 01:19 .quarto
+-rw-r--r-- 1 siena siena  290 Oct  6 01:19 _quarto.yml
+-rw-rw-r-- 1 siena siena  600 Apr 27 12:12 styles.css
+
+./_proc/_docs:
+total 20
+drwxr-xr-x 2 siena siena 4096 Oct  6 01:19 .
+drwxr-xr-x 4 siena siena 4096 Oct  6 01:19 ..
+-rw-r--r-- 1 siena siena  227 Oct  6 01:19 index.html
+-rw-r--r-- 1 siena siena   71 Oct  6 01:19 robots.txt
+-rw-r--r-- 1 siena siena  110 Oct  6 01:19 sitemap.xml
+
+./_proc/.quarto:
+total 16
+drwxr-xr-x 4 siena siena 4096 Oct  6 01:19 .
+drwxr-xr-x 4 siena siena 4096 Oct  6 01:19 ..
+drwxr-xr-x 2 siena siena 4096 Oct  6 01:19 idx
+drwxr-xr-x 2 siena siena 4096 Oct  6 01:19 xref
+
+./_proc/.quarto/idx:
+total 20
+drwxr-xr-x 2 siena siena  4096 Oct  6 01:19 .
+drwxr-xr-x 4 siena siena  4096 Oct  6 01:19 ..
+-rw-r--r-- 1 siena siena 10938 Oct  6 01:19 index.ipynb.json
+
+./_proc/.quarto/xref:
+total 16
+drwxr-xr-x 2 siena siena 4096 Oct  6 01:19 .
+drwxr-xr-x 4 siena siena 4096 Oct  6 01:19 ..
+-rw-r--r-- 1 siena siena   50 Oct  6 01:19 77f62fc2
+-rw-r--r-- 1 siena siena   54 Oct  6 01:19 INDEX
